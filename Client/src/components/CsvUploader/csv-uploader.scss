@@ -1,0 +1,24 @@
+.CsvUploader {
+  border: rgb(4, 4, 4) solid 2px;
+  // background-color: black;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-image: url("../../assets/thing02backgroundimg.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+
+.upload-icon{
+  font-size: 150px;
+  background-color: transparent;
+  // border: rgb(4, 4, 4) solid 2px;
+  // opacity: 0.5;
+}
+
+.upload-icon:hover{
+   color: rgb(165, 13, 122); 
+}
