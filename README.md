@@ -3,9 +3,10 @@ thing or two task!
 Welcome to the task!  This project leverages the power of Docker to streamline development and deployment processes, ensuring that you can focus on building amazing features without worrying about the environment setup.
 
 Getting Started:)
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+Prerequisites: 
 Before you begin, ensure you have the following tools installed on your system:
 
 Docker
@@ -13,9 +14,9 @@ Docker Compose
 Installation
 Follow these simple steps to get your development environment running:
 
-Clone the Repository
+- Clone the Repository
 
-Start by cloning this repository to your local machine using:
+- Start by cloning this repository to your local machine using:
 
 git clone https://github.com/zeevjo/thing-02-task.git
 Enter the Server Directory
