@@ -52,10 +52,10 @@ registrar to the sever in the contianer
 
 with the follwing credentials
 
-Name: db
-Host: db
-username:postgsql
-password postgsql
+- Name: db
+- Host: db
+- username:postgsql
+- password: postgsql
 
 These credentials will allow you to connect to the PostgreSQL database and manage it directly from pgAdmin.
 
