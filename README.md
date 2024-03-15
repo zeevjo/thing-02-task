@@ -5,8 +5,7 @@ Welcome to the task!  This project leverages the power of Docker to streamline d
 
 
 
-* You can see inside the folder a server in a public folder
-* csv files of the type you sent with the letters in lowercase
+* You can see inside the folder a server in a public folder csv files of the type you sent with the letters in lowercase
 * Immediately after uploading a file, you will also see the table arranged by band
 
 Getting Started:)
