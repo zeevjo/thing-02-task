@@ -46,7 +46,7 @@ pgAdmin
 username:admin@admin.com
 password:pgadmin4
 
-in pgDAdmin:
+in pgAdmin:
 
 registrar to the sever in the contianer
 
