@@ -2,6 +2,13 @@ thing or two task!
 
 Welcome to the task!  This project leverages the power of Docker to streamline development and deployment processes, ensuring that you can focus on building amazing features without worrying about the environment setup.
 
+
+
+
+* You can see inside the folder a server in a public folder
+* csv files of the type you sent with the letters in lowercase
+* Immediately after uploading a file, you will also see the table arranged by band
+
 Getting Started:)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
