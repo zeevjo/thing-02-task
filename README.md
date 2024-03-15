@@ -1,7 +1,8 @@
-thing or two task
+thing or two task!
+
 Welcome to the task!  This project leverages the power of Docker to streamline development and deployment processes, ensuring that you can focus on building amazing features without worrying about the environment setup.
 
-Getting Started
+Getting Started:)
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
